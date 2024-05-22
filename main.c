@@ -9,7 +9,7 @@
 #include <math.h>
 #include <nrfx_glue.h>
 #include <time.h>
-#include "game.h"
+#include "30.h"
 #include <stdio.h>
 
 

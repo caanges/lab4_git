@@ -1,5 +1,5 @@
-#ifndef GAME_H
-#define GAME_H
+#ifndef GRUPP_30_H
+#define GRUPP_30_H
 
 #include <nrfx.h>
 #include <nrf5340_application.h>
